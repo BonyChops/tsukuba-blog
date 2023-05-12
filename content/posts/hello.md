@@ -140,3 +140,4 @@ draft: false
      git push
      ```
    - `https://www.u.tsukuba.ac.jp/~ユーザー名/`の表示が 404 でなければ成功！
+   - 成功したら，ローカルに作成された`~/.ssh/id_ed25519`と`~/.ssh/id_ed25519.pub`は消しておいてください
