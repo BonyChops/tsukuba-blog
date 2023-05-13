@@ -2,6 +2,7 @@
 title: "始めまして"
 date: 2023-05-12T10:37:14+09:00
 draft: false
+tags: ["enPiT"]
 ---
 
 ノリで研究ブログを始めてみました，Bony_Chops と申します．  
