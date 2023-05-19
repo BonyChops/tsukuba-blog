@@ -6,7 +6,11 @@ tags: ["enPiT", "enPiT進捗報告"]
 ---
 
 こちらは 2023/05/17(水)の enPiT 進捗報告になります．  
-今日は~~システム演習で使う~~FastAPI で
+今日は~~システム演習で使う~~FastAPI の構築 etc をやります．
+
+## 現状
+
+現状は Apache でビルドした React のホストや FastAPI のリバースプロキシをしてます．
 
 ![](/~s2313881/blog/images/2023-05-19-build-fastapi/system.png)
 
@@ -204,3 +208,4 @@ export default App;
 
     - Firebase に認証済みドメインとして登録...
     - 思ったより時間がかかったができた
+    - 本当はもっと色々やりたかったけど今日はここまで...
